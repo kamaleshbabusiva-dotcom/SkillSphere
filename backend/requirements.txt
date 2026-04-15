@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+openai
+python-multipart
+python-dotenv
+alembic
+psycopg2-binary
+bcrypt
+pyjwt
+pdfminer.six
+google-generativeai
+httpx
